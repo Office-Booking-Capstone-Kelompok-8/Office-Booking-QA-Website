@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Customers</name>
+   <tag></tag>
+   <elementGuidId>9473b896-dec5-4f43-9931-baca10f35ccb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/main/div/div/div[2]/div/div/div/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.sidenav_link.d-block.d-block.d-flex.justify-content-center.justify-content-md-start.align-items-center > span.d-none.d-md-inline</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ac39ee13-82e4-436c-bfe0-e0c41101233e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-none d-md-inline</value>
+      <webElementGuid>08e5ea24-7d59-45ad-80cf-8e72e17f340d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Customers</value>
+      <webElementGuid>8ca6acd8-ef48-4473-93e5-a6aff9c4fc07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/main[1]/div[@class=&quot;d-flex flex-column justify-content-between shadow sidebar&quot;]/div[1]/div[@class=&quot;px-3 text-md&quot;]/div[@class=&quot;nav-item dropdown&quot;]/div[@class=&quot;sidenav-item&quot;]/div[@class=&quot;dropdown-menu show&quot;]/div[@class=&quot;nav-link__admin dropdown-item&quot;]/a[@class=&quot;sidenav_link d-block d-block d-flex justify-content-center justify-content-md-start align-items-center&quot;]/span[@class=&quot;d-none d-md-inline&quot;]</value>
+      <webElementGuid>ca36a13f-d664-4c24-b48d-b05b399f9f63</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/main/div/div/div[2]/div/div/div/div/a/span</value>
+      <webElementGuid>9d9e33ab-3df1-4756-8903-beaf85161e35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/following::span[1]</value>
+      <webElementGuid>2b6f93d4-e0ff-4fa9-b989-23a62f808856</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reservations'])[1]/following::span[2]</value>
+      <webElementGuid>b2a9a47f-e323-4149-a43a-de0ff6d4aca9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admins'])[1]/preceding::span[1]</value>
+      <webElementGuid>c85b6337-9287-4f6f-84a3-7ae0d14e1a8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/preceding::span[2]</value>
+      <webElementGuid>07482e06-83ec-4a6d-815d-98395dd9e32a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Customers']/parent::*</value>
+      <webElementGuid>56722487-8fa3-4514-a911-7469143ba41f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/a/span</value>
+      <webElementGuid>36590bfe-7466-4f36-8d32-63196ffc7684</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Customers' or . = 'Customers')]</value>
+      <webElementGuid>07bbfba1-9a29-4e9f-8ff7-d4a491eff3da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

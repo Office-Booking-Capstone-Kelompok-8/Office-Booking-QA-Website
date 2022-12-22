@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Jl Tu</name>
+   <tag></tag>
+   <elementGuidId>1bbc5862-79e9-4e42-b46b-4b157919f779</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>textarea[name=&quot;address&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@name='address']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>d998209e-5f87-4f6b-893e-403d8df14158</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>address</value>
+      <webElementGuid>0ea2a246-2da7-4c4a-8c41-4585a9438dbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-field</value>
+      <webElementGuid>4877b1b8-ac94-4834-82a7-415ce83fb349</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Ex: Jl Melati Raya no 23 RT 12 RW 2, Tebet</value>
+      <webElementGuid>28d88627-8085-48f1-bf3a-e41ad7f077da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jl Tu</value>
+      <webElementGuid>09c48b9f-7d8e-4e39-b385-aaa4ab131496</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/main[1]/div[@class=&quot;flex-grow-1 h-full&quot;]/div[@class=&quot;p-3&quot;]/div[2]/form[1]/div[@class=&quot;row mb-4&quot;]/div[@class=&quot;col-9&quot;]/textarea[@class=&quot;input-field&quot;]</value>
+      <webElementGuid>ecba39e3-6d95-42b4-a5d6-8e9f4d4798db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//textarea[@name='address']</value>
+      <webElementGuid>458d834d-9479-4300-85a6-86d2d5ed7b57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/main/div[2]/div/div[2]/form/div[5]/div/textarea</value>
+      <webElementGuid>fff0514c-2557-46df-b7a8-db0e6718f32e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::textarea[1]</value>
+      <webElementGuid>71ac91fa-6461-45c2-b1fd-1fa92aeee16b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/preceding::textarea[1]</value>
+      <webElementGuid>c66c4433-9d25-4fd5-b9f9-49ae1d8a5e1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Jl Tu']/parent::*</value>
+      <webElementGuid>2662b00a-7e0b-468e-9837-eb611fb8e696</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>2b553f11-d8e0-4627-a647-28275ad0a1b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@name = 'address' and @placeholder = 'Ex: Jl Melati Raya no 23 RT 12 RW 2, Tebet' and (text() = 'Jl Tu' or . = 'Jl Tu')]</value>
+      <webElementGuid>d22fecf7-4cce-4c8d-b3e7-2e70e07775f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add admin</name>
+   <tag></tag>
+   <elementGuidId>466e82ff-41fd-4bfe-93a6-7f6d7673f8ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.bg-primary.text-white.text-sm.me-5.px-5.py-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/main/div[2]/div/div[2]/div[2]/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>74251b82-cb64-4d72-9501-af2d8b364d30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn bg-primary text-white text-sm me-5 px-5 py-2</value>
+      <webElementGuid>67b5299d-957b-4b29-abba-f01a3e310b79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/admin/admins/add-admin</value>
+      <webElementGuid>52fae272-8ef6-4339-aa96-3cb894dce151</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add admin</value>
+      <webElementGuid>473518ca-09b6-4871-89f7-86984f444bfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/main[1]/div[@class=&quot;flex-grow-1 h-full&quot;]/div[@class=&quot;p-3&quot;]/div[2]/div[@class=&quot;mb-2&quot;]/div[@class=&quot;row mb-3&quot;]/div[@class=&quot;col-md-12 d-flex justify-content-end&quot;]/a[@class=&quot;btn bg-primary text-white text-sm me-5 px-5 py-2&quot;]</value>
+      <webElementGuid>4ecb6409-5dcd-4349-9581-5bcfe7d0b488</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/main/div[2]/div/div[2]/div[2]/div/div/a</value>
+      <webElementGuid>84b9e72e-fce3-4405-b971-efd7c1905b51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Add admin')]</value>
+      <webElementGuid>838eedec-5284-4f2d-8960-d55d53fa9548</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='admins'])[2]/following::a[1]</value>
+      <webElementGuid>cc3f19e2-d828-444a-a036-43a04dc60826</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='>'])[1]/following::a[1]</value>
+      <webElementGuid>f800b20f-91bf-4c0c-910a-bef9f50d94ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/preceding::a[1]</value>
+      <webElementGuid>25c3926b-6146-4cc1-bd48-69ff3aa449f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/preceding::a[1]</value>
+      <webElementGuid>1bf372d7-95c7-4fb5-aa1f-82a80d601eb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add admin']/parent::*</value>
+      <webElementGuid>1b54c594-1cee-48cb-974e-ba4bf54bc4b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/admin/admins/add-admin')]</value>
+      <webElementGuid>37f463c7-a322-483f-9090-bb8c6a035a34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a</value>
+      <webElementGuid>2e59c0eb-d0d6-438d-a9c3-5d74330364be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/admin/admins/add-admin' and (text() = 'Add admin' or . = 'Add admin')]</value>
+      <webElementGuid>d0cd6b36-8aae-4c47-85bc-e2c78ea8320d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

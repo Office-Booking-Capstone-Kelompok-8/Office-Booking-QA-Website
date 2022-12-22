@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Main Image</name>
+   <tag></tag>
+   <elementGuidId>e9deba3c-10f1-4344-be9e-5f457cd77c11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.img-upload.d-flex.flex-column.align-items-center.text-gray-dark.text-sm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/main/div[2]/div/div[2]/form/div/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>8c98bce4-5225-4f8b-9a02-f185e3338007</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>image</value>
+      <webElementGuid>280d8059-d29b-4a8c-b157-334e6009794b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-upload d-flex flex-column align-items-center text-gray-dark text-sm</value>
+      <webElementGuid>1c3a12dc-124a-4831-945c-c1ed0abf2fc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Main Image</value>
+      <webElementGuid>734b298e-7d47-4927-83aa-08b214ae30da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/main[1]/div[@class=&quot;flex-grow-1 h-full&quot;]/div[@class=&quot;p-3&quot;]/div[2]/form[1]/div[@class=&quot;row mb-4&quot;]/div[@class=&quot;col-9&quot;]/div[@class=&quot;d-flex flex-wrap&quot;]/label[@class=&quot;img-upload d-flex flex-column align-items-center text-gray-dark text-sm&quot;]</value>
+      <webElementGuid>86a03b71-5c2e-40e5-85e8-91bad4fd0c60</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/main/div[2]/div/div[2]/form/div/div/div/label</value>
+      <webElementGuid>49c64b05-3301-41f9-b93f-3a827c74eb11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::label[1]</value>
+      <webElementGuid>42f20d60-0d12-4dea-a362-5576e636d0ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='add-building'])[1]/following::label[1]</value>
+      <webElementGuid>f5ea9f06-dd66-4e9f-b9a0-402b1d3aca87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More Images'])[1]/preceding::label[1]</value>
+      <webElementGuid>b0c0be5b-f765-4be9-9a50-64ee211b0690</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>2d1d2485-4f36-4eb1-8069-225b3188fc60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Main Image' or . = 'Main Image')]</value>
+      <webElementGuid>f23c6247-4492-453f-b60a-8512f484c657</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

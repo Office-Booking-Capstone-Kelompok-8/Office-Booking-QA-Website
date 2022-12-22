@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>form_Photo Profile Email Nomor Tlp phone is_b975f8</name>
+   <tag></tag>
+   <elementGuidId>574b2b2e-ec22-4684-9342-ae3f22d8baf7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@action='#']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
+      <webElementGuid>ca29c53a-2453-4868-a1fe-3d16eb8f28ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>action</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>fcd52539-673e-4cec-be8f-e8cc2328be16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Photo Profile *Email *Nomor Tlp *phone is a required fieldName *Password *Confirm Password *CancelAdd Customer</value>
+      <webElementGuid>4b06b1c1-9848-4af4-95d9-34fc946a61c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/main[1]/div[@class=&quot;flex-grow-1 h-full&quot;]/div[@class=&quot;p-3&quot;]/div[2]/form[1]</value>
+      <webElementGuid>6c08e285-f57f-402c-8b13-5090ad85e0c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//form[@action='#']</value>
+      <webElementGuid>bfa61596-645b-45de-a83d-899a391d5db7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/main/div[2]/div/div[2]/form</value>
+      <webElementGuid>f38e1e6f-6c3d-44c5-a7ec-d242b011a15b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='add-customer'])[1]/following::form[1]</value>
+      <webElementGuid>ab1f6128-cb7e-4eca-b4e4-add60f0b2a8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='>'])[2]/following::form[1]</value>
+      <webElementGuid>dcd25abe-a32f-4c55-a74f-986363cff5ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/form</value>
+      <webElementGuid>c9dc83c2-8b47-43cb-b3f4-a8688190e092</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//form[(text() = 'Photo Profile *Email *Nomor Tlp *phone is a required fieldName *Password *Confirm Password *CancelAdd Customer' or . = 'Photo Profile *Email *Nomor Tlp *phone is a required fieldName *Password *Confirm Password *CancelAdd Customer')]</value>
+      <webElementGuid>c884cb39-1a1f-47be-8e0c-806fd400ca8d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

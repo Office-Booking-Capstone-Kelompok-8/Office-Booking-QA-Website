@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Users</name>
+   <tag></tag>
+   <elementGuidId>522f1dfb-ce52-44a9-b32d-f0df2a3eefa6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav-link__admin.d-block.d-block.d-flex.justify-content-center.justify-content-md-start.align-items-center > div > span.d-none.d-md-inline</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='flush-headingOne']/button/a/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c24f8737-7e02-4313-bb02-a6214e33f292</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-none d-md-inline</value>
+      <webElementGuid>3cddc39d-1d93-47cd-b4e3-8ceec369b5c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Users</value>
+      <webElementGuid>41ed4f72-91c6-479b-a3e2-86f03193b6b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;flush-headingOne&quot;)/button[@class=&quot;accordion-button&quot;]/a[@class=&quot;nav-link__admin d-block d-block d-flex justify-content-center justify-content-md-start align-items-center&quot;]/div[1]/span[@class=&quot;d-none d-md-inline&quot;]</value>
+      <webElementGuid>71540957-bd03-4346-b87c-e10e9c0f090e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//h2[@id='flush-headingOne']/button/a/div/span</value>
+      <webElementGuid>93fc01da-3a1f-4d57-93d9-3e26b4dadc3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reservations'])[1]/following::span[1]</value>
+      <webElementGuid>c784e044-e165-462f-a624-fddfc86f025d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buildings'])[1]/following::span[2]</value>
+      <webElementGuid>216d440b-4d87-4784-9c36-69546c432af0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customers'])[1]/preceding::span[1]</value>
+      <webElementGuid>6e2c14cb-e0fb-42fb-b1d6-abdd63729272</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admins'])[1]/preceding::span[2]</value>
+      <webElementGuid>8d8e56f0-2830-4cd8-962b-1c637466a423</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Users']/parent::*</value>
+      <webElementGuid>ba9e2756-a2e4-47e7-981f-93f92bf5dca0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/span</value>
+      <webElementGuid>991d66bc-58ef-4223-a50d-07456d8f16ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Users' or . = 'Users')]</value>
+      <webElementGuid>773839ee-19d4-4732-baa0-9fc42d10bd9c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

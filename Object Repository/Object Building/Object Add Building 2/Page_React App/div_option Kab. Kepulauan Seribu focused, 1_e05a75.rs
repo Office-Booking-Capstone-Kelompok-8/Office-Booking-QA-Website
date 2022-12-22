@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_option Kab. Kepulauan Seribu focused, 1_e05a75</name>
+   <tag></tag>
+   <elementGuidId>3556faf9-96b9-446c-aeea-fa2d13512354</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nameBuilding']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ed3f2cbf-ba82-4977-ac10-ce87d3b70879</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-select__control css-b62m3t-container</value>
+      <webElementGuid>8a36d9dd-e439-48d6-be36-c0b6789440b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>nameBuilding</value>
+      <webElementGuid>b5209366-76f4-4447-8924-e49ee9e333bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>option Kab. Kepulauan Seribu focused, 1 of 6. 6 results available. Use Up and Down to choose options, press Enter to select the currently focused option, press Escape to exit the menu, press Tab to select the option and exit the menu.Select One...Kab. Kepulauan SeribuKota Jakarta SelatanKota Jakarta TimurKota Jakarta PusatKota Jakarta BaratKota Jakarta Utara</value>
+      <webElementGuid>4a93ec9a-2cbd-4466-b7f3-ab0b317dbcff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/main[1]/div[@class=&quot;flex-grow-1 h-full&quot;]/div[@class=&quot;p-3&quot;]/div[2]/form[1]/div[@class=&quot;row mb-4&quot;]/div[@class=&quot;col-9&quot;]/div[@id=&quot;nameBuilding&quot;]</value>
+      <webElementGuid>c872cb31-d5a6-492f-9148-6578d0d4589d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='nameBuilding']</value>
+      <webElementGuid>5758156b-707b-4f0c-a72d-a9ae8b6c4720</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/main/div[2]/div/div[2]/form/div[3]/div/div</value>
+      <webElementGuid>9576328e-c9bf-4a41-b5bf-077f43368531</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::div[2]</value>
+      <webElementGuid>d4abefaa-5ba0-4d8b-90e5-43e2930c72c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div</value>
+      <webElementGuid>041a3cf3-e84d-4d76-8537-b6cb4b762167</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'nameBuilding' and (text() = 'option Kab. Kepulauan Seribu focused, 1 of 6. 6 results available. Use Up and Down to choose options, press Enter to select the currently focused option, press Escape to exit the menu, press Tab to select the option and exit the menu.Select One...Kab. Kepulauan SeribuKota Jakarta SelatanKota Jakarta TimurKota Jakarta PusatKota Jakarta BaratKota Jakarta Utara' or . = 'option Kab. Kepulauan Seribu focused, 1 of 6. 6 results available. Use Up and Down to choose options, press Enter to select the currently focused option, press Escape to exit the menu, press Tab to select the option and exit the menu.Select One...Kab. Kepulauan SeribuKota Jakarta SelatanKota Jakarta TimurKota Jakarta PusatKota Jakarta BaratKota Jakarta Utara')]</value>
+      <webElementGuid>7530ab95-29c8-471c-8535-3e1c2bdb67f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

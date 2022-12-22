@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>nav_User ProfileUser ProfileAdmin 1Admin 1A_374f46</name>
+   <tag></tag>
+   <elementGuidId>72b98ee7-40f5-434d-8cd8-d8a4eeccf197</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/main/div[2]/nav</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>nav.d-flex.shadow-sm.p-3.justify-content-between</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>nav</value>
+      <webElementGuid>b385e024-c567-431e-831c-a33b6ffe5c3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex shadow-sm p-3 justify-content-between</value>
+      <webElementGuid>3012bf84-2e27-450e-99bb-2ad48a3513ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>User ProfileUser ProfileAdmin 1Admin 1Admin 1Super admin</value>
+      <webElementGuid>2d392eb3-95ae-46bc-8187-b48089c0de62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/main[1]/div[@class=&quot;flex-grow-1 h-full&quot;]/nav[@class=&quot;d-flex shadow-sm p-3 justify-content-between&quot;]</value>
+      <webElementGuid>7eefeb18-0f44-4b00-a882-f62904d03a58</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/main/div[2]/nav</value>
+      <webElementGuid>03c7dd0f-eba9-42a3-a782-e2d4d264c62c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/following::nav[1]</value>
+      <webElementGuid>97aabf89-70a7-4319-83a0-2ceab7f20d28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::nav[1]</value>
+      <webElementGuid>db43315e-afaf-45c2-a8ed-58c576cb528e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav</value>
+      <webElementGuid>0d44785c-11d8-457f-87c0-cbf4ef17c49f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//nav[(text() = 'User ProfileUser ProfileAdmin 1Admin 1Admin 1Super admin' or . = 'User ProfileUser ProfileAdmin 1Admin 1Admin 1Super admin')]</value>
+      <webElementGuid>0bb34424-d9e9-44f6-aa9d-35a27b087aae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
